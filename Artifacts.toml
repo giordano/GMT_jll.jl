@@ -1,0 +1,8 @@
+[[GMT]]
+arch = "x86_64"
+git-tree-sha1 = "b00f4bcc0d779dfd70def088d9a629941a6e23b1"
+os = "windows"
+
+    [[GMT.download]]
+    sha256 = "42506e31288c0b696c247066413573969a88042ca3eecf1ea46bcc68dc80b06b"
+    url = "https://github.com/giordano/GMT_jll.jl/releases/download/GMT-v6.4.0+0/GMT.v6.4.0.x86_64-w64-mingw32.tar.gz"
